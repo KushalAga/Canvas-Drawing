@@ -1,4 +1,4 @@
-package com.example.kidsdrawingapp
+package com.example.CanvasDrawing
 
 import android.app.Dialog
 import  androidx.appcompat.app.AppCompatActivity
