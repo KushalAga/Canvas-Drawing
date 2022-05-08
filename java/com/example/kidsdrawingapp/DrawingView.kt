@@ -1,4 +1,4 @@
-package com.example.kidsdrawingapp
+package com.example.CanvasDrawing
 
 import android.content.Context
 import android.graphics.*
